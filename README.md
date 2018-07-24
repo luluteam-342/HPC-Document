@@ -1,5 +1,4 @@
 # HPC-Document
-# HPC-Document
 ## 主要的参考文献： 
 <font size="10">加“★”的为主要的参考资料</font><br>
 ###  1.《HPL测试性能仿真与预测》
