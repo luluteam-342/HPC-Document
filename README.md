@@ -9,5 +9,5 @@
 	主要介绍Linpack中的LU分解算法的并行思想，对HPL中各个函数的时间占比进行统计。
 ### 4.《Software Libraries for Linear Algebra Computations on High Performance Computers》
 	详细介绍了Linpack中矩阵分块的具体算法，包括迭代过程中，矩阵的更新计算和并行化实施。
-
-    
+ 
+	
